@@ -1,7 +1,6 @@
-div{
-    display: flex;
-    align-items: center;
-    justify-content: center;
+.box{
+    text-align: center;
+    margin-top: 50vh;
 }
 
 .text{
